@@ -1,0 +1,7 @@
+{
+  "name": "JKNbot",
+  "description": "JKNbot under development",
+  "repository": "https://github.com/KioniNdungu/jkn",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"]
+}
